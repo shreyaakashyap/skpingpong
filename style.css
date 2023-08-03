@@ -1,0 +1,32 @@
+.heading {
+    width: 100%;
+    text-align: left;
+    padding: 5px ;
+    font-size: 30px;
+}
+
+.instructions {
+    float: right;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.source_code {
+    width: 100%;
+    background-color: dimgray;
+    color: white;
+    padding: 10px;
+    bottom: 0;
+    margin: 0;
+}
+
+.instructions_image {
+    display: inline-block;
+    width: 45%;
+}
+
+#myModal {
+    width: 100%;
+}
